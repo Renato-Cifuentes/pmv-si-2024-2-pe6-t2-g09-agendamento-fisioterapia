@@ -1,13 +1,15 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A crescente demanda por serviços de fisioterapia, especialmente entre indivíduos que sofrem com dores crônicas e emocionais, destaca a necessidade de atualização constante dos métodos de captação de clientes e de comunicação com o público-alvo. Davi Aburjeli, fisioterapeuta especializado, busca ampliar sua base de clientes e divulgar suas especialidades por meio da criação de um sistema integrado de cadastramento e agendamento. O objetivo principal desta aplicação é otimizar o processo de captação de novos pacientes, oferecendo uma interface digital que facilite tanto a administração dos cadastros quanto a marcação de consultas.
+
+O problema identificado por Davi Aburjeli é a escassez de novos clientes, o que torna evidente a necessidade de revisar e modernizar suas estratégias de captação. A justificativa para o desenvolvimento do sistema reside na adaptação às novas demandas do mercado, no qual a digitalização dos serviços se mostra essencial para a atração e fidelização de pacientes. Este projeto tem como público-alvo pessoas de diferentes faixas etárias e gêneros, que enfrentam dores crônicas e emocionais, e busca proporcionar a esses indivíduos um acesso facilitado aos cuidados fisioterapêuticos por meio de ferramentas tecnológicas eficientes.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+A captação de novos clientes tem se tornado um desafio crescente para muitos profissionais de saúde, incluindo fisioterapeutas. No caso específico de Davi Aburjeli, a principal dificuldade está na atração de pacientes que sofrem com dores crônicas e emocionais. Apesar de sua expertise, o método tradicional de divulgação e captação de clientes tem se mostrado insuficiente para acompanhar as mudanças no comportamento do público, que cada vez mais busca conveniência e acessibilidade no agendamento de serviços de saúde.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+A ausência de uma plataforma digital eficiente limita a capacidade de Davi em alcançar um público mais amplo e oferecer uma experiência de usuário mais moderna e prática. Esse problema é acentuado pelo fato de que muitos indivíduos que poderiam se beneficiar de seus serviços desconhecem sua prática ou têm dificuldade em marcar consultas de maneira ágil e simplificada. Além disso, a falta de integração entre os sistemas de gestão de pacientes, como cadastro e agendamento, acaba por impactar negativamente a eficiência operacional e a qualidade do atendimento prestado.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Nesse contexto, a necessidade de atualização e implementação de novas estratégias digitais se torna urgente. A ausência de uma ferramenta tecnológica que centralize o gerenciamento de pacientes e facilite o contato com o público-alvo não só impede o crescimento da clínica, como também reduz a capacidade de fidelização dos pacientes atuais, que esperam por serviços mais modernos e integrados.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
