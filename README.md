@@ -6,20 +6,20 @@
 
 `SEMESTRE: 6º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Sistemas integrados e Distribuidos - Clinica de Fisioterapia - Fisioterapeuta FoDavi Aburjeli
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Allan Diego Pereira do Nascimento
+* Fernanda Fonseca Ribeiro Bertoldo
+* Gabriel Novais Maia
+* Higor Henrique Batista Souza
+* Lara Alves de Freitas
+* Renato Cifuentes Dias de Araújo Neto
 
 ## Orientador
 
-* Nome completo do professor 1
+* Kleber Jacques Ferreira de Souza
 
 # Planejamento
 
